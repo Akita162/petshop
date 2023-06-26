@@ -61,6 +61,7 @@
                             <option>MANDIRI</option>
                             <option>GOPAY</option>
                             <option>OVO</option>
+                            <option>DANA</option>
                         </select>
                     </p>
                     <p>
